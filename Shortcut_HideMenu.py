@@ -1,0 +1,8 @@
+maya.mel.eval('ToggleStatusLine')
+maya.mel.eval('ToggleShelf')
+#maya.mel.eval('ToggleTimeSlider')
+maya.mel.eval('ToggleRangeSlider')
+maya.mel.eval('ToggleCommandLine')
+maya.mel.eval('ToggleHelpLine')
+maya.mel.eval('ToggleToolbox')
+maya.mel.eval('ToggleModelEditorBars')
